@@ -1,0 +1,14 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "serveyk0-work <serveyko.work@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/ui.test.js"
+  }
+}
